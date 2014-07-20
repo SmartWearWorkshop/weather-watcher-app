@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/swear1/Desktop/android-wear-101-master/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-ee7deea1ae2e0735ab1826d279dc3697aeade0da.jar"
+        jar="/Applications/Android Studio 2.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/swear1/Desktop/android-wear-101-master/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-a97a25188194068074610712be6fa98f046e86df.jar"
+        jar="/Users/swear1/Desktop/android-wear-101-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/swear1/Desktop/android-wear-101-master/app/build/intermediates/pre-dexed/debug/classes-28f270a6058dedebc9ae45b048e3d1451780fd15.jar"
+        jar="/Users/swear1/Desktop/android-wear-101-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
